@@ -1,0 +1,20 @@
+.myPhoto{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+
+.photoContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.photoBorder{
+    width: 100%;
+    border-top: 10px solid white;
+    margin-top: 10px;
+}
+.body{
+    background-color: black !important;
+}
