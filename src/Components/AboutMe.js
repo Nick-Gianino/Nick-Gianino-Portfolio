@@ -11,6 +11,7 @@ function AboutMe() {
             <div className='photoBorder'></div>      
             <div>
                 <p>ABOUT ME WILL GO HERE</p>
+                //new componenet here
             </div>
         </div>
     );
